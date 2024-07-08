@@ -24,13 +24,11 @@
  }
  .discount{
   color: #FF0000;
-  display: flex;
   justify-content: center;
   width: 383;
   height: 107;
  }
  .selection{
-  display: flex;
   justify-content: center;
   width: 802;
   height: 806;
@@ -65,4 +63,44 @@
   background-repeat: no-repeat;
   width: 1320px;
   height: 463px;
+ }
+ .discount-first{
+  background-image: url(../images/Rectangle\ 2.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 1320px;
+  height: 986px;
+ }
+ .images{
+  width: 1320px;
+  height: 1163px;
+ }
+ .content-felx{
+  display: flex;
+  justify-content: center;
+ }
+ .images-list{
+  display: flex;
+ }
+ .images-list-first{
+ display: flex;
+ }
+ .footer{
+  width: 1320px;
+  height: 616px;
+ }
+ .footer-first{
+  width: 896px;
+  height: 336px;
+ }
+ .footer-first-web{
+  width: 150px;
+  height: 150px;
+ }
+ .footer-first-web-dev{
+  justify-content: center;
+ }
+ .button{
+  width: 648px; 
+  height: 72px;
  }
